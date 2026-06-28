@@ -1,0 +1,15 @@
+:root{
+    --cor-principal:#0f172a;
+    --cor-secundaria:#1e293b;
+    --cor-destaque:#2563eb;
+    --cor-hover:#1d4ed8;
+
+    --cor-fundo:#f5f7fa;
+    --cor-texto:#222;
+    --cor-branco:#ffffff;
+
+    --raio:10px;
+    --raio-card:12px;
+
+    --sombra:0 2px 10px rgba(0,0,0,.1);
+}
