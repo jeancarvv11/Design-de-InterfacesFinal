@@ -71,6 +71,18 @@ header h1{
 .menu a:hover{
     color:#60a5fa;
 }
+.menu a:visited{
+    color: white;
+}
+
+.menu a:active{
+    color: #60a5fa;
+}
+
+.menu a:focus{
+    color: #60a5fa;
+    outline: none;
+}
 
 /* Cards */
 
